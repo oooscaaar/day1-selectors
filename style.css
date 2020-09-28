@@ -14,11 +14,12 @@ h1 {
 }
 
 h2 {
-    color: teal;
+    color: #008080;
 }
 
 p {
-    color: steelblue;
+    /*color: rgb(70.130,180);*/
+    color:rgb(70,130,180);
 }
 
 header {
